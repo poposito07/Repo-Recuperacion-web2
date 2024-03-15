@@ -1,0 +1,23 @@
+.Articuloq{
+    width: 28%;
+    height: 120vh;
+    margin: 1%;
+    background-color: #D9D9D9;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -245px;
+
+}
+
+.contenedor-articulo{
+    width: 95%;
+    height: 98%;
+    display: flex;
+    flex-direction: column;
+}
+
+.marg{
+    margin: 0;
+}

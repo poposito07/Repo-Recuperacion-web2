@@ -1,0 +1,216 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.body{
+    width: 100%;
+    height: 200vh;
+    background-color: #ffffff;
+    display: flex;
+}
+
+.body-left{
+    width: 70%;
+    height: 100%;
+    display: flex;
+    justify-content: end;
+    align-items: start;
+    margin-top: -250px;
+
+}
+
+
+.container-left{
+    width: 90%;
+    height: 70vh;
+    margin-top: 10px;
+    margin-right: 15px;
+    background-color: #f3f3f3;
+    
+}
+
+.container-pefil{
+    width: 100%;
+    height: 50%;
+    
+}
+
+.contenido-info{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding: 2%;
+}
+
+.informacion-letf{
+    width: 40%;
+    height: 90%;
+    margin-top: 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+
+}
+
+.redes ul {
+    padding: 18px;
+    margin: 15px;
+}
+
+.redes ul li {
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.redes ul li span {
+    margin-left: -35px;
+    margin-right: 50px;
+
+}
+
+
+ul{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    list-style: none;
+
+}
+
+li{
+    text-decoration: none;
+    margin-right: 3%;
+    margin-left: 0;
+
+}
+
+.text{
+    margin: 5px;
+    margin-left: 4%;
+}
+
+.text2{
+    margin: 5px;
+    margin-left: 13%;
+}
+
+.contenedor-intereses{
+    width: 40%;
+    height: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-items: center;
+    margin-bottom: 5%;
+    
+
+}
+
+.contenedor-Lista{
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    
+}
+
+.seccion{
+    background-color: #eeeeee;
+    padding: 5px;
+    border-radius: 15px;
+    margin: 2%;
+}
+
+.seccion-infor{
+    width: 100%;
+    height: 40vh;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+}
+
+.Conten{
+    width: 70%;
+    height: 62%;
+    background-color: #d3d3d3;
+    padding: 10px;
+}
+
+.Seccion-Amigos{
+    width: 27%;
+    height: 80%;
+    background-color: #d3d3d3;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor-amigos{
+    width: 90%;
+    height: 20%;
+    background-color: #ffffff;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.texto{
+    width: 70%;
+    height: 90%;
+}
+.info-amigos{
+    width: 90%;
+    height: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: space-around;
+}
+
+
+.margin0{
+    margin: 0;
+}
+.margin00{
+    width: 100%;
+    margin: 0;
+}
+
+a{
+    margin-left: 45%;
+    color: gray;
+}
+.imagen{
+    width: 15%;
+    height: auto;
+    border-radius: 0%;
+    margin: 2.5%;
+}
+
+
+
+
+  .container-pefil img {
+    width: 100%;
+    height: 120%;
+    
+}
+
+
+
+.overlay-image {
+    width: 150%;
+    height: auto;
+    margin-top: -250px;
+
+}
+
+
+

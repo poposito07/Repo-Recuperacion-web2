@@ -1,0 +1,42 @@
+.publicacion-contenedor {
+    width: 48%;
+    height: 20vh;
+    margin: 1%;
+    border-radius: 5px;
+    background-color: #D9D9D9;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.publicacion-cuadro {
+    width: 92%;
+    height: 45%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.publicacion-botones {
+    width: 92%;
+    height: 45%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.publicacion-imagen-crear {
+    width: 6%;
+    border-radius: 50%;
+}
+
+.publicacion-imagen-verificar {
+    width: 80%;
+}
+
+.publicacion-boton-verificar {
+    width: 5%;
+    height: 50%;
+    border-radius: 50%;
+}

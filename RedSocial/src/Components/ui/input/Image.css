@@ -1,0 +1,20 @@
+.imagen-foto {
+    position: relative;
+    width: 10%;
+    height: 260px;
+    gap: 12px;
+}
+
+.background-image {
+    width: 10%;
+    height: 100%;
+}
+
+.overlay-image {
+    position: absolute;
+    top: 350px;
+    left: 120px;
+    width: 170%;
+    height: 90%;
+    border-radius: 50%;
+}

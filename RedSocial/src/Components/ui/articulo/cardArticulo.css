@@ -1,0 +1,78 @@
+.contenedor-articulo-distinto {
+    width: 100%;
+    height: 45vh;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-top: 3%;
+}
+
+.contenedor-informacion-unico {
+    width: 100%;
+    height: 50%;
+    background: linear-gradient(0deg, #454545, #c5c5c551);
+    border-radius: 0px 0px 10px 10px;
+    color: #FFFFFF;
+}
+
+.espaciado-diferente {
+    margin-left: 2%;
+}
+
+
+
+.contenedor-articulo-distinto {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.contenedor-imagen {
+    width: 100%;
+    height: 250px;
+    overflow: hidden;
+}
+
+.imagen-articulo {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+
+.espaciado-diferente {
+    margin: 10;
+    margin-bottom: 1px; /* Espacio entre el nombre de usuario y el texto */
+}
+
+
+.contenedor-informacion-unico {
+    padding: 5px;
+    display: flex;
+    flex-direction: column; /* Asegúrate de que los elementos se apilen verticalmente */
+    align-items: flex-start; /* Alinea los elementos a la parte superior del contenedor */
+}
+
+.boton-ver-mas-otro {
+    border-radius: 5px;
+    margin-left: 5%;
+    color: black;
+    background-color: white;
+    margin-top: 8px; /* Ajusta el margen superior según sea necesario */
+    padding: 0px 5px; /* Ajusta el padding según sea necesario */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+}
+
+.boton-ver-mas-otro:hover {
+    background-color: #C5C5C5;
+    color: white;
+}
